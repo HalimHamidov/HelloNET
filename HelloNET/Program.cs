@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Hello
+namespace HelloNET
 {
     class Program
     {
